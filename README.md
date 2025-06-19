@@ -1,4 +1,4 @@
-# bigdata---train-analysis
+# bigdata---Live train platform data analysis
 batch processing and streaming app to analyse live trains(railway) data to help Station Masters refreshing each 20 seconds
 
 #### Technologies used (highlevel)
